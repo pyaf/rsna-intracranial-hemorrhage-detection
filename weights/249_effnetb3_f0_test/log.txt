@@ -1,0 +1,43 @@
+01:57:21 Starting epoch: 0 | phase: train | 01:57:21
+01:57:52 Starting epoch: 0 | phase: train | 01:57:52
+01:58:32 Starting epoch: 0 | phase: train | 01:58:32
+02:04:40 Starting epoch: 0 | phase: train | 02:04:40
+02:07:23 Starting epoch: 0 | phase: train | 02:07:23
+02:09:45 Starting epoch: 0 | phase: train | 02:09:45
+02:10:04 Starting epoch: 0 | phase: train | 02:10:04
+02:11:00 Starting epoch: 0 | phase: train | 02:11:00
+02:12:33 Starting epoch: 0 | phase: train | 02:12:33
+02:13:28 Starting epoch: 0 | phase: train | 02:13:28
+02:14:36 Starting epoch: 0 | phase: train | 02:14:36
+02:14:57 Starting epoch: 0 | phase: train | 02:14:57
+02:15:36 Starting epoch: 0 | phase: train | 02:15:36
+02:16:17 Starting epoch: 0 | phase: train | 02:16:17
+02:16:44 Starting epoch: 0 | phase: train | 02:16:44
+02:17:13 Starting epoch: 0 | phase: train | 02:17:13
+02:19:23 Starting epoch: 0 | phase: train | 02:19:23
+02:24:55 Starting epoch: 0 | phase: train | 02:24:55
+02:25:42 Starting epoch: 0 | phase: train | 02:25:42
+02:27:48 Starting epoch: 0 | phase: train | 02:27:48
+02:29:13 Starting epoch: 0 | phase: train | 02:29:13
+02:33:07 Starting epoch: 0 | phase: train | 02:33:07
+02:34:33 Starting epoch: 0 | phase: train | 02:34:33
+02:35:17 Starting epoch: 0 | phase: train | 02:35:17
+02:40:18 Starting epoch: 0 | phase: train | 02:40:18
+02:40:41 Starting epoch: 0 | phase: train | 02:40:41
+02:43:21 Starting epoch: 0 | phase: train | 02:43:21
+02:43:54 Starting epoch: 0 | phase: train | 02:43:54
+02:45:18 Starting epoch: 0 | phase: train | 02:45:18
+02:45:55 Starting epoch: 0 | phase: train | 02:45:55
+02:47:59 Starting epoch: 0 | phase: train | 02:47:59
+02:48:04 ACC: 0.9400 | TPR: 0.5000 | PPV: 0.0000 | F1: 0.4845
+02:48:04 Class TPR: {0: 1.0, 1: 0.0}
+02:48:04 Class PPV: {0: 0.94, 1: 0.0}
+02:48:04 Class F1: {0: 0.9691, 1: 0.0}
+02:48:04 lr: 0.001
+02:48:04 Starting epoch: 1 | phase: train | 02:48:04
+02:48:06 ACC: 0.9367 | TPR: 0.4982 | PPV: 0.4699 | F1: 0.4836
+02:48:06 Class TPR: {0: 0.9965, 1: 0.0}
+02:48:06 Class PPV: {0: 0.9398, 1: 0.0}
+02:48:06 Class F1: {0: 0.9673, 1: 0.0}
+02:48:06 lr: 0.001
+02:48:06 Starting epoch: 2 | phase: train | 02:48:06
